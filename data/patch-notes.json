@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "champion": "Teemo",
+      "ability": "Noxious Trap",
+      "change": "Mushroom duration increased from 5 to 5.5 minutes.",
+      "real": true
+    },
+    {
+      "champion": "Yasuo",
+      "ability": "Steel Tempest",
+      "change": "Now grants a stack when blocked by Wind Wall.",
+      "real": false
+    },
+    {
+      "champion": "Jinx",
+      "ability": "Get Excited!",
+      "change": "Movement speed duration reduced by 1 second.",
+      "real": true
+    }
+  ],
+  [
+    {
+      "champion": "Lux",
+      "ability": "Final Spark",
+      "change": "Cooldown reduced by 5 seconds at all ranks.",
+      "real": false
+    },
+    {
+      "champion": "Vi",
+      "ability": "Vault Breaker",
+      "change": "Maximum charge time reduced from 1.25 to 1.0 seconds.",
+      "real": true
+    },
+    {
+      "champion": "Darius",
+      "ability": "Hemorrhage",
+      "change": "Noxian Might AD bonus increased from 30–200 to 40–200.",
+      "real": true
+    }
+  ],
+  [
+    {
+      "champion": "Ahri",
+      "ability": "Orb of Deception",
+      "change": "Return damage type changed from magic to true damage.",
+      "real": false
+    },
+    {
+      "champion": "Thresh",
+      "ability": "Death Sentence",
+      "change": "Hook width increased by 15 units.",
+      "real": true
+    },
+    {
+      "champion": "Katarina",
+      "ability": "Sinister Steel",
+      "change": "Removed from the game in Patch 7.9.",
+      "real": false
+    }
+  ]
+]

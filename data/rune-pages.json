@@ -1,0 +1,1722 @@
+{
+  "Aatrox": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ahri": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Akali": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Akshan": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Alistar": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ambessa": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Amumu": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Anivia": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Annie": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Aphelios": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ashe": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Aurelion Sol": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Aurora": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Azir": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Bard": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Bel'Veth": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Blitzcrank": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Brand": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Braum": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Briar": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Caitlyn": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Camille": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Cassiopeia": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Cho'Gath": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Corki": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Darius": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Diana": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Dr. Mundo": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Draven": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ekko": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Elise": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Evelynn": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ezreal": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Fiddlesticks": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Fiora": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Fizz": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Galio": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Gangplank": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Garen": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Gnar": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Gragas": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Graves": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Gwen": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Hecarim": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Heimerdinger": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Hwei": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Illaoi": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Irelia": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ivern": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Janna": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Jarvan IV": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Jax": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Jayce": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Jhin": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Jinx": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "K'Sante": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kai'Sa": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kalista": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Karma": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Karthus": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kassadin": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Katarina": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kayle": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kayn": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kennen": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kha'Zix": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kindred": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kled": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Kog'Maw": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "LeBlanc": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Lee Sin": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Leona": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Lillia": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Lissandra": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Lucian": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Lulu": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Lux": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Malphite": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Malzahar": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Maokai": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Master Yi": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Mel": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Milio": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Miss Fortune": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Mordekaiser": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Morgana": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Naafiri": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nami": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nasus": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nautilus": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Neeko": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nidalee": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nilah": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nocturne": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Nunu & Willump": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Olaf": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Orianna": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ornn": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Pantheon": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Poppy": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Pyke": {
+    "keystone": "Summon Aery",
+    "primary": "Sorcery",
+    "secondary": "Resolve",
+    "summonerSpells": [
+      "Flash",
+      "Exhaust"
+    ],
+    "difficulty": "ranked"
+  },
+  "Qiyana": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Quinn": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Rakan": {
+    "keystone": "Summon Aery",
+    "primary": "Sorcery",
+    "secondary": "Resolve",
+    "summonerSpells": [
+      "Flash",
+      "Exhaust"
+    ],
+    "difficulty": "ranked"
+  },
+  "Rammus": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Rek'Sai": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Rell": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Renata Glasc": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Renekton": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Rengar": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Riven": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Rumble": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ryze": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Samira": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Sejuani": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Senna": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Seraphine": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Sett": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Shaco": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Shen": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Shyvana": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Singed": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Sion": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Sivir": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Skarner": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Smolder": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Sona": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Soraka": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Swain": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Sylas": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Syndra": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Tahm Kench": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Taliyah": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Talon": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Taric": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Teemo": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Thresh": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Tristana": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Trundle": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Tryndamere": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Twisted Fate": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Twitch": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Udyr": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Urgot": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Varus": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Vayne": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Veigar": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Vel'Koz": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Vex": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Vi": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Viego": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Viktor": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Vladimir": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Volibear": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Warwick": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Wukong": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Xayah": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Xerath": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Xin Zhao": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Yasuo": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Yone": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Yorick": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Yunara": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Yuumi": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zaahen": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zac": {
+    "keystone": "Grasp of the Undying",
+    "primary": "Resolve",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zed": {
+    "keystone": "Conqueror",
+    "primary": "Precision",
+    "secondary": "Domination",
+    "summonerSpells": [
+      "Flash",
+      "Ghost"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zeri": {
+    "keystone": "Lethal Tempo",
+    "primary": "Precision",
+    "secondary": "Sorcery",
+    "summonerSpells": [
+      "Flash",
+      "Heal"
+    ],
+    "difficulty": "ranked"
+  },
+  "Ziggs": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zilean": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zoe": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  },
+  "Zyra": {
+    "keystone": "Arcane Comet",
+    "primary": "Sorcery",
+    "secondary": "Inspiration",
+    "summonerSpells": [
+      "Flash",
+      "Teleport"
+    ],
+    "difficulty": "ranked"
+  }
+}

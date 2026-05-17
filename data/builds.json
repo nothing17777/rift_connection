@@ -1,0 +1,16 @@
+[
+  {
+    "champion": "Jinx",
+    "items": [3031, 3094, 3046, 3036, 3072, 3006],
+    "lane": "Bot",
+    "rank": "Diamond",
+    "context": "ranked"
+  },
+  {
+    "champion": "Yasuo",
+    "items": [3006, 3046, 3031, 3026, 3072, 3022],
+    "lane": "Mid",
+    "rank": "Platinum",
+    "context": "ranked"
+  }
+]

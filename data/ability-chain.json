@@ -1,0 +1,1550 @@
+[
+  {
+    "champion": "Aatrox",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Ahri",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Akali",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Akshan",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Alistar",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Ambessa",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Amumu",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Anivia",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Annie",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Aphelios",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Ashe",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Aurelion Sol",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Aurora",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Azir",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Bard",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Bel'Veth",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Blitzcrank",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Brand",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Braum",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Briar",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Caitlyn",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Camille",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Cassiopeia",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Cho'Gath",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Corki",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Darius",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Diana",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Dr. Mundo",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Draven",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Ekko",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Elise",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Evelynn",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Ezreal",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Fiddlesticks",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Fiora",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Fizz",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Galio",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Gangplank",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Garen",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Gnar",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Gragas",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Graves",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Gwen",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Hecarim",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Heimerdinger",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Hwei",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Illaoi",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Irelia",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Ivern",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Janna",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Jarvan IV",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Jax",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Jayce",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Jhin",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Jinx",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "K'Sante",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Kai'Sa",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Kalista",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Karma",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Karthus",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Kassadin",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Katarina",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Kayle",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Kayn",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Kennen",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Kha'Zix",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Kindred",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Kled",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Kog'Maw",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "LeBlanc",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Lee Sin",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Leona",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Lillia",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Lissandra",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Lucian",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Lulu",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Lux",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Malphite",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Malzahar",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Maokai",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Master Yi",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Mel",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Milio",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Miss Fortune",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Mordekaiser",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Morgana",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Naafiri",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Nami",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Nasus",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Nautilus",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Neeko",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Nidalee",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Nilah",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Nocturne",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Nunu & Willump",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Olaf",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Orianna",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Ornn",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Pantheon",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Poppy",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Pyke",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Qiyana",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Quinn",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Rakan",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Rammus",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Rek'Sai",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Rell",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Renata Glasc",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Renekton",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Rengar",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Riven",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Rumble",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Ryze",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Samira",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Sejuani",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Senna",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Seraphine",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Sett",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Shaco",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Shen",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Shyvana",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Singed",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Sion",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Sivir",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Skarner",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Smolder",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Sona",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Soraka",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Swain",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Sylas",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Syndra",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Tahm Kench",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Taliyah",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Talon",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Taric",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Teemo",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Thresh",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Tristana",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Trundle",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Tryndamere",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Twisted Fate",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Twitch",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Udyr",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Urgot",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Varus",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Vayne",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Veigar",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Vel'Koz",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Vex",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Vi",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Viego",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Viktor",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Vladimir",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Volibear",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Warwick",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Wukong",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Xayah",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Xerath",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Xin Zhao",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Yasuo",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Yone",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Yorick",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Yunara",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Yuumi",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Zaahen",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Zac",
+    "chain": [
+      "Slow",
+      "Dash",
+      "Stun",
+      "AoE Damage Ultimate"
+    ]
+  },
+  {
+    "champion": "Zed",
+    "chain": [
+      "Dash",
+      "Stealth",
+      "Stun",
+      "Execute Ultimate"
+    ]
+  },
+  {
+    "champion": "Zeri",
+    "chain": [
+      "Attack Speed Boost",
+      "Slow",
+      "Dash",
+      "Global Ultimate"
+    ]
+  },
+  {
+    "champion": "Ziggs",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Zilean",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Zoe",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  },
+  {
+    "champion": "Zyra",
+    "chain": [
+      "Root",
+      "Shield",
+      "AoE Slow",
+      "Beam Ultimate"
+    ]
+  }
+]
