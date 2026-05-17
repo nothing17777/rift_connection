@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Rajdhani:wght@400;600;700&family=Russo+One&family=Chakra+Petch:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #050810;
+  --foreground: #f8fafc;
+  
+  --card: #0d1117;
+  --card-foreground: #f8fafc;
+  --popover: #0d1117;
+  --popover-foreground: #f8fafc;
+  
+  --primary: #4d9fff; /* Neon Blue */
+  --primary-foreground: #000000;
+  
+  --secondary: #8b5cf6; /* Hex Purple */
+  --secondary-foreground: #ffffff;
+  
+  --accent: #c8a84b; /* Gold Accent */
+  --accent-foreground: #000000;
+  
+  --muted: #161b22;
+  --muted-foreground: #94a3b8;
+  
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  
+  --border: #1e293b;
+  --input: #1e293b;
+  --ring: #4d9fff;
+  
+  --radius: 0.75rem;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Rajdhani', sans-serif;
+  overflow-x: hidden;
+  overflow-y: visible; /* Prevents body from creating a secondary scrollbar */
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #050810;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4d9fff;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased;
+  }
+}
+
+@layer utilities {
+  .text-glow-blue {
+    text-shadow: 0 0 10px rgba(77, 159, 255, 0.6), 0 0 20px rgba(77, 159, 255, 0.4);
+  }
+  .text-glow-purple {
+    text-shadow: 0 0 10px rgba(139, 92, 246, 0.6), 0 0 20px rgba(139, 92, 246, 0.4);
+  }
+  .text-glow-gold {
+    text-shadow: 0 0 10px rgba(200, 168, 75, 0.6), 0 0 20px rgba(200, 168, 75, 0.4);
+  }
+  .border-glow-blue {
+    box-shadow: 0 0 15px rgba(77, 159, 255, 0.3);
+  }
+  .border-glow-purple {
+    box-shadow: 0 0 15px rgba(139, 92, 246, 0.3);
+  }
+  .border-glow-gold {
+    box-shadow: 0 0 15px rgba(200, 168, 75, 0.3);
+  }
+  
+  .bg-radial-vignette {
+    background: radial-gradient(circle at center, transparent 30%, rgba(5, 8, 16, 0.95) 100%);
+  }
+}
+
+/* Custom Keyframes and animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes glitch {
+  0% {
+    clip-path: inset(40% 0 61% 0);
+  }
+  20% {
+    clip-path: inset(92% 0 1% 0);
+  }
+  40% {
+    clip-path: inset(25% 0 58% 0);
+  }
+  60% {
+    clip-path: inset(75% 0 5% 0);
+  }
+  80% {
+    clip-path: inset(54% 0 7% 0);
+  }
+  100% {
+    clip-path: inset(12% 0 85% 0);
+  }
+}
+
+.animate-glitch {
+  animation: glitch 1s linear infinite alternate-reverse;
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(77, 159, 255, 0.7);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(77, 159, 255, 0);
+  }
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(77, 159, 255, 0);
+  }
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

@@ -1,0 +1,1894 @@
+[
+  {
+    "id": "aatrox-abilities",
+    "title": "Aatrox Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Aatrox.",
+    "items": [
+      "The Darkin Blade",
+      "Infernal Chains",
+      "Umbral Dash",
+      "World Ender"
+    ]
+  },
+  {
+    "id": "ahri-abilities",
+    "title": "Ahri Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ahri.",
+    "items": [
+      "Orb of Deception",
+      "Fox-Fire",
+      "Charm",
+      "Spirit Rush"
+    ]
+  },
+  {
+    "id": "akali-abilities",
+    "title": "Akali Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Akali.",
+    "items": [
+      "Five Point Strike",
+      "Twilight Shroud",
+      "Shuriken Flip",
+      "Perfect Execution"
+    ]
+  },
+  {
+    "id": "akshan-abilities",
+    "title": "Akshan Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Akshan.",
+    "items": [
+      "Avengerang",
+      "Going Rogue",
+      "Heroic Swing",
+      "Comeuppance"
+    ]
+  },
+  {
+    "id": "alistar-abilities",
+    "title": "Alistar Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Alistar.",
+    "items": [
+      "Pulverize",
+      "Headbutt",
+      "Trample",
+      "Unbreakable Will"
+    ]
+  },
+  {
+    "id": "ambessa-abilities",
+    "title": "Ambessa Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ambessa.",
+    "items": [
+      "Cunning Sweep / Sundering Slam",
+      "Repudiation",
+      "Lacerate",
+      "Public Execution"
+    ]
+  },
+  {
+    "id": "amumu-abilities",
+    "title": "Amumu Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Amumu.",
+    "items": [
+      "Bandage Toss",
+      "Despair",
+      "Tantrum",
+      "Curse of the Sad Mummy"
+    ]
+  },
+  {
+    "id": "anivia-abilities",
+    "title": "Anivia Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Anivia.",
+    "items": [
+      "Flash Frost",
+      "Crystallize",
+      "Frostbite",
+      "Glacial Storm"
+    ]
+  },
+  {
+    "id": "annie-abilities",
+    "title": "Annie Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Annie.",
+    "items": [
+      "Disintegrate",
+      "Incinerate",
+      "Molten Shield",
+      "Summon: Tibbers"
+    ]
+  },
+  {
+    "id": "aphelios-abilities",
+    "title": "Aphelios Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Aphelios.",
+    "items": [
+      "Weapon Abilites",
+      "Phase",
+      "Weapon Queue System",
+      "Moonlight Vigil"
+    ]
+  },
+  {
+    "id": "ashe-abilities",
+    "title": "Ashe Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ashe.",
+    "items": [
+      "Ranger's Focus",
+      "Volley",
+      "Hawkshot",
+      "Enchanted Crystal Arrow"
+    ]
+  },
+  {
+    "id": "aurelionsol-abilities",
+    "title": "Aurelion Sol Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Aurelion Sol.",
+    "items": [
+      "Breath of Light",
+      "Astral Flight",
+      "Singularity",
+      "Falling Star / The Skies Descend"
+    ]
+  },
+  {
+    "id": "aurora-abilities",
+    "title": "Aurora Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Aurora.",
+    "items": [
+      "Twofold Hex",
+      "Across the Veil",
+      "The Weirding",
+      "Between Worlds"
+    ]
+  },
+  {
+    "id": "azir-abilities",
+    "title": "Azir Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Azir.",
+    "items": [
+      "Conquering Sands",
+      "Arise!",
+      "Shifting Sands",
+      "Emperor's Divide"
+    ]
+  },
+  {
+    "id": "bard-abilities",
+    "title": "Bard Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Bard.",
+    "items": [
+      "Cosmic Binding",
+      "Caretaker's Shrine",
+      "Magical Journey",
+      "Tempered Fate"
+    ]
+  },
+  {
+    "id": "belveth-abilities",
+    "title": "Bel'Veth Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Bel'Veth.",
+    "items": [
+      "Void Surge",
+      "Above and Below",
+      "Royal Maelstrom",
+      "Endless Banquet"
+    ]
+  },
+  {
+    "id": "blitzcrank-abilities",
+    "title": "Blitzcrank Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Blitzcrank.",
+    "items": [
+      "Rocket Grab",
+      "Overdrive",
+      "Power Fist",
+      "Static Field"
+    ]
+  },
+  {
+    "id": "brand-abilities",
+    "title": "Brand Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Brand.",
+    "items": [
+      "Sear",
+      "Pillar of Flame",
+      "Conflagration",
+      "Pyroclasm"
+    ]
+  },
+  {
+    "id": "braum-abilities",
+    "title": "Braum Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Braum.",
+    "items": [
+      "Winter's Bite",
+      "Stand Behind Me",
+      "Unbreakable",
+      "Glacial Fissure"
+    ]
+  },
+  {
+    "id": "briar-abilities",
+    "title": "Briar Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Briar.",
+    "items": [
+      "Head Rush",
+      "Blood Frenzy / Snack Attack",
+      "Chilling Scream",
+      "Certain Death"
+    ]
+  },
+  {
+    "id": "caitlyn-abilities",
+    "title": "Caitlyn Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Caitlyn.",
+    "items": [
+      "Piltover Peacemaker",
+      "Yordle Snap Trap",
+      "90 Caliber Net",
+      "Ace in the Hole"
+    ]
+  },
+  {
+    "id": "camille-abilities",
+    "title": "Camille Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Camille.",
+    "items": [
+      "Precision Protocol",
+      "Tactical Sweep",
+      "Hookshot",
+      "The Hextech Ultimatum"
+    ]
+  },
+  {
+    "id": "cassiopeia-abilities",
+    "title": "Cassiopeia Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Cassiopeia.",
+    "items": [
+      "Noxious Blast",
+      "Miasma",
+      "Twin Fang",
+      "Petrifying Gaze"
+    ]
+  },
+  {
+    "id": "chogath-abilities",
+    "title": "Cho'Gath Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Cho'Gath.",
+    "items": [
+      "Rupture",
+      "Feral Scream",
+      "Vorpal Spikes",
+      "Feast"
+    ]
+  },
+  {
+    "id": "corki-abilities",
+    "title": "Corki Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Corki.",
+    "items": [
+      "Phosphorus Bomb",
+      "Valkyrie",
+      "Gatling Gun",
+      "Missile Barrage"
+    ]
+  },
+  {
+    "id": "darius-abilities",
+    "title": "Darius Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Darius.",
+    "items": [
+      "Decimate",
+      "Crippling Strike",
+      "Apprehend",
+      "Noxian Guillotine"
+    ]
+  },
+  {
+    "id": "diana-abilities",
+    "title": "Diana Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Diana.",
+    "items": [
+      "Crescent Strike",
+      "Pale Cascade",
+      "Lunar Rush",
+      "Moonfall"
+    ]
+  },
+  {
+    "id": "draven-abilities",
+    "title": "Draven Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Draven.",
+    "items": [
+      "Spinning Axe",
+      "Blood Rush",
+      "Stand Aside",
+      "Whirling Death"
+    ]
+  },
+  {
+    "id": "drmundo-abilities",
+    "title": "Dr. Mundo Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Dr. Mundo.",
+    "items": [
+      "Infected Bonesaw",
+      "Heart Zapper",
+      "Blunt Force Trauma",
+      "Maximum Dosage"
+    ]
+  },
+  {
+    "id": "ekko-abilities",
+    "title": "Ekko Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ekko.",
+    "items": [
+      "Timewinder",
+      "Parallel Convergence",
+      "Phase Dive",
+      "Chronobreak"
+    ]
+  },
+  {
+    "id": "elise-abilities",
+    "title": "Elise Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Elise.",
+    "items": [
+      "Neurotoxin / Venomous Bite",
+      "Volatile Spiderling / Skittering Frenzy",
+      "Cocoon / Rappel",
+      "Spider Form"
+    ]
+  },
+  {
+    "id": "evelynn-abilities",
+    "title": "Evelynn Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Evelynn.",
+    "items": [
+      "Hate Spike",
+      "Allure",
+      "Whiplash",
+      "Last Caress"
+    ]
+  },
+  {
+    "id": "ezreal-abilities",
+    "title": "Ezreal Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ezreal.",
+    "items": [
+      "Mystic Shot",
+      "Essence Flux",
+      "Arcane Shift",
+      "Trueshot Barrage"
+    ]
+  },
+  {
+    "id": "fiddlesticks-abilities",
+    "title": "Fiddlesticks Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Fiddlesticks.",
+    "items": [
+      "Terrify",
+      "Bountiful Harvest",
+      "Reap",
+      "Crowstorm"
+    ]
+  },
+  {
+    "id": "fiora-abilities",
+    "title": "Fiora Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Fiora.",
+    "items": [
+      "Lunge",
+      "Riposte",
+      "Bladework",
+      "Grand Challenge"
+    ]
+  },
+  {
+    "id": "fizz-abilities",
+    "title": "Fizz Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Fizz.",
+    "items": [
+      "Urchin Strike",
+      "Seastone Trident",
+      "Playful / Trickster",
+      "Chum the Waters"
+    ]
+  },
+  {
+    "id": "galio-abilities",
+    "title": "Galio Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Galio.",
+    "items": [
+      "Winds of War",
+      "Shield of Durand",
+      "Justice Punch",
+      "Hero's Entrance"
+    ]
+  },
+  {
+    "id": "gangplank-abilities",
+    "title": "Gangplank Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Gangplank.",
+    "items": [
+      "Parrrley",
+      "Remove Scurvy",
+      "Powder Keg",
+      "Cannon Barrage"
+    ]
+  },
+  {
+    "id": "garen-abilities",
+    "title": "Garen Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Garen.",
+    "items": [
+      "Decisive Strike",
+      "Courage",
+      "Judgment",
+      "Demacian Justice"
+    ]
+  },
+  {
+    "id": "gnar-abilities",
+    "title": "Gnar Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Gnar.",
+    "items": [
+      "Boomerang Throw / Boulder Toss",
+      "Hyper / Wallop",
+      "Hop / Crunch",
+      "GNAR!"
+    ]
+  },
+  {
+    "id": "gragas-abilities",
+    "title": "Gragas Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Gragas.",
+    "items": [
+      "Barrel Roll",
+      "Drunken Rage",
+      "Body Slam",
+      "Explosive Cask"
+    ]
+  },
+  {
+    "id": "graves-abilities",
+    "title": "Graves Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Graves.",
+    "items": [
+      "End of the Line",
+      "Smoke Screen",
+      "Quickdraw",
+      "Collateral Damage"
+    ]
+  },
+  {
+    "id": "gwen-abilities",
+    "title": "Gwen Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Gwen.",
+    "items": [
+      "Snip Snip!",
+      "Hallowed Mist",
+      "Skip 'n Slash",
+      "Needlework"
+    ]
+  },
+  {
+    "id": "hecarim-abilities",
+    "title": "Hecarim Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Hecarim.",
+    "items": [
+      "Rampage",
+      "Spirit of Dread",
+      "Devastating Charge",
+      "Onslaught of Shadows"
+    ]
+  },
+  {
+    "id": "heimerdinger-abilities",
+    "title": "Heimerdinger Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Heimerdinger.",
+    "items": [
+      "H-28 G Evolution Turret",
+      "Hextech Micro-Rockets",
+      "CH-2 Electron Storm Grenade",
+      "UPGRADE!!!"
+    ]
+  },
+  {
+    "id": "hwei-abilities",
+    "title": "Hwei Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Hwei.",
+    "items": [
+      "Subject: Disaster",
+      "Subject: Serenity",
+      "Subject: Torment",
+      "Spiraling Despair"
+    ]
+  },
+  {
+    "id": "illaoi-abilities",
+    "title": "Illaoi Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Illaoi.",
+    "items": [
+      "Tentacle Smash",
+      "Harsh Lesson",
+      "Test of Spirit",
+      "Leap of Faith"
+    ]
+  },
+  {
+    "id": "irelia-abilities",
+    "title": "Irelia Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Irelia.",
+    "items": [
+      "Bladesurge",
+      "Defiant Dance",
+      "Flawless Duet",
+      "Vanguard's Edge"
+    ]
+  },
+  {
+    "id": "ivern-abilities",
+    "title": "Ivern Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ivern.",
+    "items": [
+      "Rootcaller",
+      "Brushmaker",
+      "Triggerseed",
+      "Daisy!"
+    ]
+  },
+  {
+    "id": "janna-abilities",
+    "title": "Janna Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Janna.",
+    "items": [
+      "Howling Gale",
+      "Zephyr",
+      "Eye Of The Storm",
+      "Monsoon"
+    ]
+  },
+  {
+    "id": "jarvaniv-abilities",
+    "title": "Jarvan IV Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Jarvan IV.",
+    "items": [
+      "Dragon Strike",
+      "Golden Aegis",
+      "Demacian Standard",
+      "Cataclysm"
+    ]
+  },
+  {
+    "id": "jax-abilities",
+    "title": "Jax Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Jax.",
+    "items": [
+      "Leap Strike",
+      "Empower",
+      "Counter Strike",
+      "Grandmaster-at-Arms"
+    ]
+  },
+  {
+    "id": "jayce-abilities",
+    "title": "Jayce Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Jayce.",
+    "items": [
+      "To the Skies! / Shock Blast",
+      "Lightning Field / Hyper Charge",
+      "Thundering Blow / Acceleration Gate",
+      "Mercury Cannon / Mercury Hammer"
+    ]
+  },
+  {
+    "id": "jhin-abilities",
+    "title": "Jhin Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Jhin.",
+    "items": [
+      "Dancing Grenade",
+      "Deadly Flourish",
+      "Captive Audience",
+      "Curtain Call"
+    ]
+  },
+  {
+    "id": "jinx-abilities",
+    "title": "Jinx Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Jinx.",
+    "items": [
+      "Switcheroo!",
+      "Zap!",
+      "Flame Chompers!",
+      "Super Mega Death Rocket!"
+    ]
+  },
+  {
+    "id": "kaisa-abilities",
+    "title": "Kai'Sa Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kai'Sa.",
+    "items": [
+      "Icathian Rain",
+      "Void Seeker",
+      "Supercharge",
+      "Killer Instinct"
+    ]
+  },
+  {
+    "id": "kalista-abilities",
+    "title": "Kalista Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kalista.",
+    "items": [
+      "Pierce",
+      "Sentinel",
+      "Rend",
+      "Fate's Call"
+    ]
+  },
+  {
+    "id": "karma-abilities",
+    "title": "Karma Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Karma.",
+    "items": [
+      "Inner Flame",
+      "Focused Resolve",
+      "Inspire",
+      "Mantra"
+    ]
+  },
+  {
+    "id": "karthus-abilities",
+    "title": "Karthus Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Karthus.",
+    "items": [
+      "Lay Waste",
+      "Wall of Pain",
+      "Defile",
+      "Requiem"
+    ]
+  },
+  {
+    "id": "kassadin-abilities",
+    "title": "Kassadin Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kassadin.",
+    "items": [
+      "Null Sphere",
+      "Nether Blade",
+      "Force Pulse",
+      "Riftwalk"
+    ]
+  },
+  {
+    "id": "katarina-abilities",
+    "title": "Katarina Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Katarina.",
+    "items": [
+      "Bouncing Blade",
+      "Preparation",
+      "Shunpo",
+      "Death Lotus"
+    ]
+  },
+  {
+    "id": "kayle-abilities",
+    "title": "Kayle Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kayle.",
+    "items": [
+      "Radiant Blast",
+      "Celestial Blessing",
+      "Starfire Spellblade",
+      "Divine Judgment"
+    ]
+  },
+  {
+    "id": "kayn-abilities",
+    "title": "Kayn Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kayn.",
+    "items": [
+      "Reaping Slash",
+      "Blade's Reach",
+      "Shadow Step",
+      "Umbral Trespass"
+    ]
+  },
+  {
+    "id": "kennen-abilities",
+    "title": "Kennen Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kennen.",
+    "items": [
+      "Thundering Shuriken",
+      "Electrical Surge",
+      "Lightning Rush",
+      "Slicing Maelstrom"
+    ]
+  },
+  {
+    "id": "khazix-abilities",
+    "title": "Kha'Zix Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kha'Zix.",
+    "items": [
+      "Taste Their Fear",
+      "Void Spike",
+      "Leap",
+      "Void Assault"
+    ]
+  },
+  {
+    "id": "kindred-abilities",
+    "title": "Kindred Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kindred.",
+    "items": [
+      "Dance of Arrows",
+      "Wolf's Frenzy",
+      "Mounting Dread",
+      "Lamb's Respite"
+    ]
+  },
+  {
+    "id": "kled-abilities",
+    "title": "Kled Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kled.",
+    "items": [
+      "Bear Trap on a Rope",
+      "Violent Tendencies",
+      "Jousting",
+      "Chaaaaaaaarge!!!"
+    ]
+  },
+  {
+    "id": "kogmaw-abilities",
+    "title": "Kog'Maw Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Kog'Maw.",
+    "items": [
+      "Caustic Spittle",
+      "Bio-Arcane Barrage",
+      "Void Ooze",
+      "Living Artillery"
+    ]
+  },
+  {
+    "id": "ksante-abilities",
+    "title": "K'Sante Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by K'Sante.",
+    "items": [
+      "Ntofo Strikes",
+      "Path Maker",
+      "Footwork",
+      "All Out"
+    ]
+  },
+  {
+    "id": "leblanc-abilities",
+    "title": "LeBlanc Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by LeBlanc.",
+    "items": [
+      "Sigil of Malice",
+      "Distortion",
+      "Ethereal Chains",
+      "Mimic"
+    ]
+  },
+  {
+    "id": "leesin-abilities",
+    "title": "Lee Sin Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Lee Sin.",
+    "items": [
+      "Sonic Wave / Resonating Strike",
+      "Safeguard / Iron Will",
+      "Tempest / Cripple",
+      "Dragon's Rage"
+    ]
+  },
+  {
+    "id": "leona-abilities",
+    "title": "Leona Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Leona.",
+    "items": [
+      "Shield of Daybreak",
+      "Eclipse",
+      "Zenith Blade",
+      "Solar Flare"
+    ]
+  },
+  {
+    "id": "lillia-abilities",
+    "title": "Lillia Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Lillia.",
+    "items": [
+      "Blooming Blows",
+      "Watch Out! Eep!",
+      "Swirlseed",
+      "Lilting Lullaby"
+    ]
+  },
+  {
+    "id": "lissandra-abilities",
+    "title": "Lissandra Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Lissandra.",
+    "items": [
+      "Ice Shard",
+      "Ring of Frost",
+      "Glacial Path",
+      "Frozen Tomb"
+    ]
+  },
+  {
+    "id": "lucian-abilities",
+    "title": "Lucian Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Lucian.",
+    "items": [
+      "Piercing Light",
+      "Ardent Blaze",
+      "Relentless Pursuit",
+      "The Culling"
+    ]
+  },
+  {
+    "id": "lulu-abilities",
+    "title": "Lulu Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Lulu.",
+    "items": [
+      "Glitterlance",
+      "Whimsy",
+      "Help, Pix!",
+      "Wild Growth"
+    ]
+  },
+  {
+    "id": "lux-abilities",
+    "title": "Lux Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Lux.",
+    "items": [
+      "Light Binding",
+      "Prismatic Barrier",
+      "Lucent Singularity",
+      "Final Spark"
+    ]
+  },
+  {
+    "id": "malphite-abilities",
+    "title": "Malphite Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Malphite.",
+    "items": [
+      "Seismic Shard",
+      "Thunderclap",
+      "Ground Slam",
+      "Unstoppable Force"
+    ]
+  },
+  {
+    "id": "malzahar-abilities",
+    "title": "Malzahar Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Malzahar.",
+    "items": [
+      "Call of the Void",
+      "Void Swarm",
+      "Malefic Visions",
+      "Nether Grasp"
+    ]
+  },
+  {
+    "id": "maokai-abilities",
+    "title": "Maokai Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Maokai.",
+    "items": [
+      "Bramble Smash",
+      "Twisted Advance",
+      "Sapling Toss",
+      "Nature's Grasp"
+    ]
+  },
+  {
+    "id": "masteryi-abilities",
+    "title": "Master Yi Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Master Yi.",
+    "items": [
+      "Alpha Strike",
+      "Meditate",
+      "Wuju Style",
+      "Highlander"
+    ]
+  },
+  {
+    "id": "mel-abilities",
+    "title": "Mel Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Mel.",
+    "items": [
+      "Radiant Volley",
+      "Rebuttal",
+      "Solar Snare",
+      "Golden Eclipse"
+    ]
+  },
+  {
+    "id": "milio-abilities",
+    "title": "Milio Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Milio.",
+    "items": [
+      "Ultra Mega Fire Kick",
+      "Cozy Campfire",
+      "Warm Hugs",
+      "Breath of Life"
+    ]
+  },
+  {
+    "id": "missfortune-abilities",
+    "title": "Miss Fortune Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Miss Fortune.",
+    "items": [
+      "Double Up",
+      "Strut",
+      "Make It Rain",
+      "Bullet Time"
+    ]
+  },
+  {
+    "id": "monkeyking-abilities",
+    "title": "Wukong Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Wukong.",
+    "items": [
+      "Crushing Blow",
+      "Warrior Trickster",
+      "Nimbus Strike",
+      "Cyclone"
+    ]
+  },
+  {
+    "id": "mordekaiser-abilities",
+    "title": "Mordekaiser Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Mordekaiser.",
+    "items": [
+      "Obliterate",
+      "Indestructible",
+      "Death's Grasp",
+      "Realm of Death"
+    ]
+  },
+  {
+    "id": "morgana-abilities",
+    "title": "Morgana Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Morgana.",
+    "items": [
+      "Dark Binding",
+      "Tormented Shadow",
+      "Black Shield",
+      "Soul Shackles"
+    ]
+  },
+  {
+    "id": "naafiri-abilities",
+    "title": "Naafiri Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Naafiri.",
+    "items": [
+      "Darkin Daggers",
+      "The Call of the Pack",
+      "Eviscerate",
+      "Hounds' Pursuit"
+    ]
+  },
+  {
+    "id": "nami-abilities",
+    "title": "Nami Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nami.",
+    "items": [
+      "Aqua Prison",
+      "Ebb and Flow",
+      "Tidecaller's Blessing",
+      "Tidal Wave"
+    ]
+  },
+  {
+    "id": "nasus-abilities",
+    "title": "Nasus Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nasus.",
+    "items": [
+      "Siphoning Strike",
+      "Wither",
+      "Spirit Fire",
+      "Fury of the Sands"
+    ]
+  },
+  {
+    "id": "nautilus-abilities",
+    "title": "Nautilus Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nautilus.",
+    "items": [
+      "Dredge Line",
+      "Titan's Wrath",
+      "Riptide",
+      "Depth Charge"
+    ]
+  },
+  {
+    "id": "neeko-abilities",
+    "title": "Neeko Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Neeko.",
+    "items": [
+      "Blooming Burst",
+      "Shapesplitter",
+      "Tangle-Barbs",
+      "Pop Blossom"
+    ]
+  },
+  {
+    "id": "nidalee-abilities",
+    "title": "Nidalee Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nidalee.",
+    "items": [
+      "Javelin Toss / Takedown",
+      "Bushwhack / Pounce",
+      "Primal Surge / Swipe",
+      "Aspect Of The Cougar"
+    ]
+  },
+  {
+    "id": "nilah-abilities",
+    "title": "Nilah Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nilah.",
+    "items": [
+      "Formless Blade",
+      "Jubilant Veil",
+      "Slipstream",
+      "Apotheosis"
+    ]
+  },
+  {
+    "id": "nocturne-abilities",
+    "title": "Nocturne Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nocturne.",
+    "items": [
+      "Duskbringer",
+      "Shroud of Darkness",
+      "Unspeakable Horror",
+      "Paranoia"
+    ]
+  },
+  {
+    "id": "nunu-abilities",
+    "title": "Nunu & Willump Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Nunu & Willump.",
+    "items": [
+      "Consume",
+      "Biggest Snowball Ever!",
+      "Snowball Barrage",
+      "Absolute Zero"
+    ]
+  },
+  {
+    "id": "olaf-abilities",
+    "title": "Olaf Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Olaf.",
+    "items": [
+      "Undertow",
+      "Tough It Out",
+      "Reckless Swing",
+      "Ragnarok"
+    ]
+  },
+  {
+    "id": "orianna-abilities",
+    "title": "Orianna Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Orianna.",
+    "items": [
+      "Command: Attack",
+      "Command: Dissonance",
+      "Command: Protect",
+      "Command: Shockwave"
+    ]
+  },
+  {
+    "id": "ornn-abilities",
+    "title": "Ornn Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ornn.",
+    "items": [
+      "Volcanic Rupture",
+      "Bellows Breath",
+      "Searing Charge",
+      "Call of the Forge God"
+    ]
+  },
+  {
+    "id": "pantheon-abilities",
+    "title": "Pantheon Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Pantheon.",
+    "items": [
+      "Comet Spear",
+      "Shield Vault",
+      "Aegis Assault",
+      "Grand Starfall"
+    ]
+  },
+  {
+    "id": "poppy-abilities",
+    "title": "Poppy Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Poppy.",
+    "items": [
+      "Hammer Shock",
+      "Steadfast Presence",
+      "Heroic Charge",
+      "Keeper's Verdict"
+    ]
+  },
+  {
+    "id": "pyke-abilities",
+    "title": "Pyke Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Pyke.",
+    "items": [
+      "Bone Skewer",
+      "Ghostwater Dive",
+      "Phantom Undertow",
+      "Death From Below"
+    ]
+  },
+  {
+    "id": "qiyana-abilities",
+    "title": "Qiyana Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Qiyana.",
+    "items": [
+      "Elemental Wrath / Edge of Ixtal",
+      "Terrashape",
+      "Audacity",
+      "Supreme Display of Talent"
+    ]
+  },
+  {
+    "id": "quinn-abilities",
+    "title": "Quinn Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Quinn.",
+    "items": [
+      "Blinding Assault",
+      "Heightened Senses",
+      "Vault",
+      "Behind Enemy Lines"
+    ]
+  },
+  {
+    "id": "rakan-abilities",
+    "title": "Rakan Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Rakan.",
+    "items": [
+      "Gleaming Quill",
+      "Grand Entrance",
+      "Battle Dance",
+      "The Quickness"
+    ]
+  },
+  {
+    "id": "rammus-abilities",
+    "title": "Rammus Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Rammus.",
+    "items": [
+      "Powerball",
+      "Defensive Ball Curl",
+      "Frenzying Taunt",
+      "Soaring Slam"
+    ]
+  },
+  {
+    "id": "reksai-abilities",
+    "title": "Rek'Sai Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Rek'Sai.",
+    "items": [
+      "Queen's Wrath / Prey Seeker",
+      "Burrow / Un-burrow",
+      "Furious Bite / Tunnel",
+      "Void Rush"
+    ]
+  },
+  {
+    "id": "rell-abilities",
+    "title": "Rell Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Rell.",
+    "items": [
+      "Shattering Strike",
+      "Ferromancy: Crash Down",
+      "Full Tilt",
+      "Magnet Storm"
+    ]
+  },
+  {
+    "id": "renata-abilities",
+    "title": "Renata Glasc Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Renata Glasc.",
+    "items": [
+      "Handshake",
+      "Bailout",
+      "Loyalty Program",
+      "Hostile Takeover"
+    ]
+  },
+  {
+    "id": "renekton-abilities",
+    "title": "Renekton Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Renekton.",
+    "items": [
+      "Cull the Meek",
+      "Ruthless Predator",
+      "Slice and Dice",
+      "Dominus"
+    ]
+  },
+  {
+    "id": "rengar-abilities",
+    "title": "Rengar Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Rengar.",
+    "items": [
+      "Savagery",
+      "Battle Roar",
+      "Bola Strike",
+      "Thrill of the Hunt"
+    ]
+  },
+  {
+    "id": "riven-abilities",
+    "title": "Riven Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Riven.",
+    "items": [
+      "Broken Wings",
+      "Ki Burst",
+      "Valor",
+      "Blade of the Exile"
+    ]
+  },
+  {
+    "id": "rumble-abilities",
+    "title": "Rumble Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Rumble.",
+    "items": [
+      "Flamespitter",
+      "Scrap Shield",
+      "Electro Harpoon",
+      "The Equalizer"
+    ]
+  },
+  {
+    "id": "ryze-abilities",
+    "title": "Ryze Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ryze.",
+    "items": [
+      "Overload",
+      "Rune Prison",
+      "Spell Flux",
+      "Realm Warp"
+    ]
+  },
+  {
+    "id": "samira-abilities",
+    "title": "Samira Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Samira.",
+    "items": [
+      "Flair",
+      "Blade Whirl",
+      "Wild Rush",
+      "Inferno Trigger"
+    ]
+  },
+  {
+    "id": "sejuani-abilities",
+    "title": "Sejuani Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Sejuani.",
+    "items": [
+      "Arctic Assault",
+      "Winter's Wrath",
+      "Permafrost",
+      "Glacial Prison"
+    ]
+  },
+  {
+    "id": "senna-abilities",
+    "title": "Senna Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Senna.",
+    "items": [
+      "Piercing Darkness",
+      "Last Embrace",
+      "Curse of the Black Mist",
+      "Dawning Shadow"
+    ]
+  },
+  {
+    "id": "seraphine-abilities",
+    "title": "Seraphine Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Seraphine.",
+    "items": [
+      "High Note",
+      "Surround Sound",
+      "Beat Drop",
+      "Encore"
+    ]
+  },
+  {
+    "id": "sett-abilities",
+    "title": "Sett Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Sett.",
+    "items": [
+      "Knuckle Down",
+      "Haymaker",
+      "Facebreaker",
+      "The Show Stopper"
+    ]
+  },
+  {
+    "id": "shaco-abilities",
+    "title": "Shaco Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Shaco.",
+    "items": [
+      "Deceive",
+      "Jack In The Box",
+      "Two-Shiv Poison",
+      "Hallucinate"
+    ]
+  },
+  {
+    "id": "shen-abilities",
+    "title": "Shen Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Shen.",
+    "items": [
+      "Twilight Assault",
+      "Spirit's Refuge",
+      "Shadow Dash",
+      "Stand United"
+    ]
+  },
+  {
+    "id": "shyvana-abilities",
+    "title": "Shyvana Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Shyvana.",
+    "items": [
+      "Emberstrike",
+      "Inferno Aegis",
+      "Molten Burst",
+      "Dragon's Descent"
+    ]
+  },
+  {
+    "id": "singed-abilities",
+    "title": "Singed Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Singed.",
+    "items": [
+      "Poison Trail",
+      "Mega Adhesive",
+      "Fling",
+      "Insanity Potion"
+    ]
+  },
+  {
+    "id": "sion-abilities",
+    "title": "Sion Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Sion.",
+    "items": [
+      "Decimating Smash",
+      "Soul Furnace",
+      "Roar of the Slayer",
+      "Unstoppable Onslaught"
+    ]
+  },
+  {
+    "id": "sivir-abilities",
+    "title": "Sivir Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Sivir.",
+    "items": [
+      "Boomerang Blade",
+      "Ricochet",
+      "Spell Shield",
+      "On The Hunt"
+    ]
+  },
+  {
+    "id": "skarner-abilities",
+    "title": "Skarner Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Skarner.",
+    "items": [
+      "Shattered Earth / Upheaval",
+      "Seismic Bastion",
+      "Ixtal's Impact",
+      "Impale"
+    ]
+  },
+  {
+    "id": "smolder-abilities",
+    "title": "Smolder Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Smolder.",
+    "items": [
+      "Super Scorcher Breath",
+      "Achooo!",
+      "Flap, Flap, Flap",
+      "MMOOOMMMM!"
+    ]
+  },
+  {
+    "id": "sona-abilities",
+    "title": "Sona Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Sona.",
+    "items": [
+      "Hymn of Valor",
+      "Aria of Perseverance",
+      "Song of Celerity",
+      "Crescendo"
+    ]
+  },
+  {
+    "id": "soraka-abilities",
+    "title": "Soraka Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Soraka.",
+    "items": [
+      "Starcall",
+      "Astral Infusion",
+      "Equinox",
+      "Wish"
+    ]
+  },
+  {
+    "id": "swain-abilities",
+    "title": "Swain Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Swain.",
+    "items": [
+      "Death's Hand",
+      "Vision of Empire",
+      "Nevermove",
+      "Demonic Ascension"
+    ]
+  },
+  {
+    "id": "sylas-abilities",
+    "title": "Sylas Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Sylas.",
+    "items": [
+      "Chain Lash",
+      "Kingslayer",
+      "Abscond / Abduct",
+      "Hijack"
+    ]
+  },
+  {
+    "id": "syndra-abilities",
+    "title": "Syndra Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Syndra.",
+    "items": [
+      "Dark Sphere",
+      "Force of Will",
+      "Scatter the Weak",
+      "Unleashed Power"
+    ]
+  },
+  {
+    "id": "tahmkench-abilities",
+    "title": "Tahm Kench Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Tahm Kench.",
+    "items": [
+      "Tongue Lash",
+      "Abyssal Dive",
+      "Thick Skin",
+      "Devour"
+    ]
+  },
+  {
+    "id": "taliyah-abilities",
+    "title": "Taliyah Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Taliyah.",
+    "items": [
+      "Threaded Volley",
+      "Seismic Shove",
+      "Unraveled Earth",
+      "Weaver's Wall"
+    ]
+  },
+  {
+    "id": "talon-abilities",
+    "title": "Talon Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Talon.",
+    "items": [
+      "Noxian Diplomacy",
+      "Rake",
+      "Assassin's Path",
+      "Shadow Assault"
+    ]
+  },
+  {
+    "id": "taric-abilities",
+    "title": "Taric Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Taric.",
+    "items": [
+      "Starlight's Touch",
+      "Bastion",
+      "Dazzle",
+      "Cosmic Radiance"
+    ]
+  },
+  {
+    "id": "teemo-abilities",
+    "title": "Teemo Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Teemo.",
+    "items": [
+      "Blinding Dart",
+      "Move Quick",
+      "Toxic Shot",
+      "Noxious Trap"
+    ]
+  },
+  {
+    "id": "thresh-abilities",
+    "title": "Thresh Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Thresh.",
+    "items": [
+      "Death Sentence",
+      "Dark Passage",
+      "Flay",
+      "The Box"
+    ]
+  },
+  {
+    "id": "tristana-abilities",
+    "title": "Tristana Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Tristana.",
+    "items": [
+      "Rapid Fire",
+      "Rocket Jump",
+      "Explosive Charge",
+      "Buster Shot"
+    ]
+  },
+  {
+    "id": "trundle-abilities",
+    "title": "Trundle Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Trundle.",
+    "items": [
+      "Chomp",
+      "Frozen Domain",
+      "Pillar of Ice",
+      "Subjugate"
+    ]
+  },
+  {
+    "id": "tryndamere-abilities",
+    "title": "Tryndamere Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Tryndamere.",
+    "items": [
+      "Bloodlust",
+      "Mocking Shout",
+      "Spinning Slash",
+      "Undying Rage"
+    ]
+  },
+  {
+    "id": "twistedfate-abilities",
+    "title": "Twisted Fate Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Twisted Fate.",
+    "items": [
+      "Wild Cards",
+      "Pick a Card",
+      "Stacked Deck",
+      "Destiny"
+    ]
+  },
+  {
+    "id": "twitch-abilities",
+    "title": "Twitch Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Twitch.",
+    "items": [
+      "Ambush",
+      "Venom Cask",
+      "Contaminate",
+      "Spray and Pray"
+    ]
+  },
+  {
+    "id": "udyr-abilities",
+    "title": "Udyr Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Udyr.",
+    "items": [
+      "Wilding Claw",
+      "Iron Mantle",
+      "Blazing Stampede",
+      "Wingborne Storm"
+    ]
+  },
+  {
+    "id": "urgot-abilities",
+    "title": "Urgot Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Urgot.",
+    "items": [
+      "Corrosive Charge",
+      "Purge",
+      "Disdain",
+      "Fear Beyond Death"
+    ]
+  },
+  {
+    "id": "varus-abilities",
+    "title": "Varus Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Varus.",
+    "items": [
+      "Piercing Arrow",
+      "Blighted Quiver",
+      "Hail of Arrows",
+      "Chain of Corruption"
+    ]
+  },
+  {
+    "id": "vayne-abilities",
+    "title": "Vayne Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Vayne.",
+    "items": [
+      "Tumble",
+      "Silver Bolts",
+      "Condemn",
+      "Final Hour"
+    ]
+  },
+  {
+    "id": "veigar-abilities",
+    "title": "Veigar Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Veigar.",
+    "items": [
+      "Baleful Strike",
+      "Dark Matter",
+      "Event Horizon",
+      "Primordial Burst"
+    ]
+  },
+  {
+    "id": "velkoz-abilities",
+    "title": "Vel'Koz Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Vel'Koz.",
+    "items": [
+      "Plasma Fission",
+      "Void Rift",
+      "Tectonic Disruption",
+      "Life Form Disintegration Ray"
+    ]
+  },
+  {
+    "id": "vex-abilities",
+    "title": "Vex Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Vex.",
+    "items": [
+      "Mistral Bolt",
+      "Personal Space",
+      "Looming Darkness",
+      "Shadow Surge"
+    ]
+  },
+  {
+    "id": "vi-abilities",
+    "title": "Vi Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Vi.",
+    "items": [
+      "Vault Breaker",
+      "Denting Blows",
+      "Relentless Force",
+      "Cease and Desist"
+    ]
+  },
+  {
+    "id": "viego-abilities",
+    "title": "Viego Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Viego.",
+    "items": [
+      "Blade of the Ruined King",
+      "Spectral Maw",
+      "Harrowed Path",
+      "Heartbreaker"
+    ]
+  },
+  {
+    "id": "viktor-abilities",
+    "title": "Viktor Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Viktor.",
+    "items": [
+      "Siphon Power",
+      "Gravity Field",
+      "Hextech Ray",
+      "Arcane Storm"
+    ]
+  },
+  {
+    "id": "vladimir-abilities",
+    "title": "Vladimir Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Vladimir.",
+    "items": [
+      "Transfusion",
+      "Sanguine Pool",
+      "Tides of Blood",
+      "Hemoplague"
+    ]
+  },
+  {
+    "id": "volibear-abilities",
+    "title": "Volibear Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Volibear.",
+    "items": [
+      "Thundering Smash",
+      "Frenzied Maul",
+      "Sky Splitter",
+      "Stormbringer"
+    ]
+  },
+  {
+    "id": "warwick-abilities",
+    "title": "Warwick Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Warwick.",
+    "items": [
+      "Jaws of the Beast",
+      "Blood Hunt",
+      "Primal Howl",
+      "Infinite Duress"
+    ]
+  },
+  {
+    "id": "xayah-abilities",
+    "title": "Xayah Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Xayah.",
+    "items": [
+      "Double Daggers",
+      "Deadly Plumage",
+      "Bladecaller",
+      "Featherstorm"
+    ]
+  },
+  {
+    "id": "xerath-abilities",
+    "title": "Xerath Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Xerath.",
+    "items": [
+      "Arcanopulse",
+      "Eye of Destruction",
+      "Shocking Orb",
+      "Rite of the Arcane"
+    ]
+  },
+  {
+    "id": "xinzhao-abilities",
+    "title": "Xin Zhao Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Xin Zhao.",
+    "items": [
+      "Three Talon Strike",
+      "Wind Becomes Lightning",
+      "Audacious Charge",
+      "Crescent Guard"
+    ]
+  },
+  {
+    "id": "yasuo-abilities",
+    "title": "Yasuo Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Yasuo.",
+    "items": [
+      "Steel Tempest",
+      "Wind Wall",
+      "Sweeping Blade",
+      "Last Breath"
+    ]
+  },
+  {
+    "id": "yone-abilities",
+    "title": "Yone Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Yone.",
+    "items": [
+      "Mortal Steel",
+      "Spirit Cleave",
+      "Soul Unbound",
+      "Fate Sealed"
+    ]
+  },
+  {
+    "id": "yorick-abilities",
+    "title": "Yorick Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Yorick.",
+    "items": [
+      "Last Rites",
+      "Dark Procession",
+      "Mourning Mist",
+      "Eulogy of the Isles"
+    ]
+  },
+  {
+    "id": "yunara-abilities",
+    "title": "Yunara Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Yunara.",
+    "items": [
+      "Cultivation of Spirit",
+      "Arc of Judgment | Arc of Ruin",
+      "Kanmei's Steps | Untouchable Shadow",
+      "Transcend One's Self"
+    ]
+  },
+  {
+    "id": "yuumi-abilities",
+    "title": "Yuumi Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Yuumi.",
+    "items": [
+      "Prowling Projectile",
+      "You and Me!",
+      "Zoomies",
+      "Final Chapter"
+    ]
+  },
+  {
+    "id": "zaahen-abilities",
+    "title": "Zaahen Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zaahen.",
+    "items": [
+      "The Darkin Glaive",
+      "Dreaded Return",
+      "Aureate Rush",
+      "Grim Deliverance"
+    ]
+  },
+  {
+    "id": "zac-abilities",
+    "title": "Zac Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zac.",
+    "items": [
+      "Stretching Strikes",
+      "Unstable Matter",
+      "Elastic Slingshot",
+      "Let's Bounce!"
+    ]
+  },
+  {
+    "id": "zed-abilities",
+    "title": "Zed Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zed.",
+    "items": [
+      "Razor Shuriken",
+      "Living Shadow",
+      "Shadow Slash",
+      "Death Mark"
+    ]
+  },
+  {
+    "id": "zeri-abilities",
+    "title": "Zeri Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zeri.",
+    "items": [
+      "Burst Fire",
+      "Ultrashock Laser",
+      "Spark Surge",
+      "Lightning Crash"
+    ]
+  },
+  {
+    "id": "ziggs-abilities",
+    "title": "Ziggs Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Ziggs.",
+    "items": [
+      "Bouncing Bomb",
+      "Satchel Charge",
+      "Hexplosive Minefield",
+      "Mega Inferno Bomb"
+    ]
+  },
+  {
+    "id": "zilean-abilities",
+    "title": "Zilean Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zilean.",
+    "items": [
+      "Time Bomb",
+      "Rewind",
+      "Time Warp",
+      "Chronoshift"
+    ]
+  },
+  {
+    "id": "zoe-abilities",
+    "title": "Zoe Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zoe.",
+    "items": [
+      "Paddle Star!",
+      "Spell Thief",
+      "Sleepy Trouble Bubble",
+      "Portal Jump"
+    ]
+  },
+  {
+    "id": "zyra-abilities",
+    "title": "Zyra Abilities",
+    "description": "The four main abilities (Q, W, E, R) used by Zyra.",
+    "items": [
+      "Deadly Spines",
+      "Rampant Growth",
+      "Grasping Roots",
+      "Stranglethorns"
+    ]
+  }
+]
